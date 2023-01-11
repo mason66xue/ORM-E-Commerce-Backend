@@ -4,13 +4,15 @@
 This application is a backend application servicing front end by using MySQL with NODE.js, Sequelize, Express and dotenv.
 The application will help users to manage data under Category, Tag and Product. Because of the application is build on the relationship of these three. 
 It is user friendly for users to search by inplementing certain standards. 
+This e-commerce application is developed using starter code to create a back-end application for an e-commerce site that uses the command line interface (CLI) and object-relational mapping for various methods of data manipulation, storage, and retrieval when using HTTP methods with a RESTUL API.
+It utlises Express.js API which uses Sequelize to interact with a MySQL database in order to build a back end for a shop's website.
 
 
 ## Installation/Usage
 - npm install command will install javascript dependencies
 - npm i
 - npm run seeds
--npm start
+- npm start
 
 
 ## Demo
