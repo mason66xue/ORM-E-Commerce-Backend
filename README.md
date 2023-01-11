@@ -14,7 +14,9 @@ It is user friendly for users to search by inplementing certain standards.
 
 ## Demo
 
-The following should be shown when testing in insomnia 
+The folowing should be shown when tesing with Insomnia 
+
+
 ![In Insomnia, the user tests “GET tags,” “GET Categories,” and “GET All Products.”.](./Assets/13-orm-homework-demo-01.gif)
 
 
